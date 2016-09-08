@@ -6,8 +6,4 @@ defmodule ESTest do
     assert 1 + 1 == 2
   end
 
-  test "Es.Rec.get_rec_functions" do
-    assert(:foo, Es.Rec.get_rec_functions())
-  end
-
 end

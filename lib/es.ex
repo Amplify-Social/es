@@ -1,2 +1,2 @@
-defmodule Es do
+defmodule ES do
 end
