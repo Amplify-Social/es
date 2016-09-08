@@ -5,8 +5,9 @@ defmodule ES.Rec do
   alias Elixir.RecordTranslator
 
   def get_rec_functions do
-    rec_layout = RecordTranslator.def_all_map("../include/rss.hrl")
-    IO.puts rec_layout
+    #rec_layout = RecordTranslator.def_all_map("../include/rss.hrl")
+    #IO.puts rec_layout
+    :foo
   end
 
 end
